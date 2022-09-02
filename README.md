@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nitesh_raya" target="blank"><img src="https://img.shields.io/twitter/follow/@nitesh_raya?logo=twitter&style=for-the-badge" alt="@nitesh_raya" /></a> </p>
 
-- 🔭 I’m currently working on [Weekly small python projects.](https://github.com/Nitesh-mint/Nitesh-mint)
+- 🔭 I’m currently working on [Weekly small python projects.](https://github.com/Nitesh-mint/Python_mini_projects)
 
 - 🌱 I’m currently learning **OOP in Python and java.(Html and Css)**
 
