@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="/home/nitesh/Desktop" width="100"/>
+</div>
 <h1 align="center">Nitesh Raya</h1>
 <h3 align="center">A python learner and BCA Student.</h3>
 
