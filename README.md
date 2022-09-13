@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ih1.redbubble.net/image.987001676.2626/st,small,507x507-pad,600x600,f8f8f8.jpg" width="100"/>
+  <img src="https://ih1.redbubble.net/image.987001676.2626/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200"/>
 </div>
 <h1 align="center">Nitesh Raya</h1>
 <h3 align="center">A python learner and BCA Student.</h3>
