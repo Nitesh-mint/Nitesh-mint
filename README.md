@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Nitesh Raya</h1>
 <h3 align="center">A python learner and BCA Student.</h3>
-
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-mint&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-mint" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@nitesh_raya" target="_blank"><img src="https://img.shields.io/twitter/follow/nitesh_raya?logo=twitter&style=for-the-badge" alt="@nitesh_raya" /></a> </p>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-mint&show_icons=true&locale=en" alt="nitesh-mint" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-mint&" alt="nitesh-mint" /></p>
+</div>
