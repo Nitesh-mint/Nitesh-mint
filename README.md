@@ -3,17 +3,10 @@
   <img src="https://ih1.redbubble.net/image.987001676.2626/st,small,507x507-pad,600x600,f8f8f8.jpg" width="200"/>
 </div>
 <h1 align="center">Nitesh Raya</h1>
-<h3 align="center">A python learner and BCA Student.</h3>
+<h3 align="center">A python lover and BCA Student.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitesh-mint&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-mint" /> </p>
 
 <p align="center"> <a href="https://twitter.com/@nitesh_raya" target="_blank"><img src="https://img.shields.io/twitter/follow/nitesh_raya?logo=twitter&style=for-the-badge" alt="@nitesh_raya" /></a> </p>
-
-- 🌱 I’m currently learning **Django and DSA**
-
-- 📫 How to reach me **nitesh.raya058@gmail.com**
-
-- ⚡ Fun fact **I think i am funny.**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@nitesh_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitesh_raya" height="30" width="40" /></a>
