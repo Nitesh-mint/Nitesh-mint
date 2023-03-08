@@ -21,7 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-mint&show_icons=true&locale=en&layout=compact" alt="nitesh-mint" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-mint&show_icons=true&locale=en" alt="nitesh-mint" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-mint&" alt="nitesh-mint" /></p>
 </div>
 </center>
