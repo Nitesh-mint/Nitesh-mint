@@ -5,7 +5,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@nitesh_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitesh_raya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitesh-raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-raya" height="30" width="40" /></a>
+<a href="linkedin.com/in/nitesh-raya-614055249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-raya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16811224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16811224" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nitesh_raya058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitesh_raya058" height="30" width="40" /></a>
 </p>
