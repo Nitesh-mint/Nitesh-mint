@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1000" height="1200px" font-size="16px">
-<text x="15" y="30" fill="#24292f" class="ascii">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%######%%%%%%%%%%%%%%###%%%%###%%%%%%%%%%%%%%%%%%######%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
 <tspan x="15" y="50" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%############*###%%%%%%%%%%%%%%%######%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
 <tspan x="15" y="70" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##***++**#######**#####%%%%%%%%%%%%%#####%%%%%%%%%%%%%%%%%%%%%%%%%%</tspan>
