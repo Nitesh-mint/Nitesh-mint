@@ -74,7 +74,7 @@ PID   PROCESS                  STATUS      DETAILS
 ## `~/skills.sh --benchmark`
 
 ```
-nitesh@arch ~ $ ./skills --verbose
+nitesh@mac ~ $ ./skills --verbose
 
 Benchmarking skills... done.
 
