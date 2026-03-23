@@ -46,7 +46,7 @@ weakness    = rabbit holes (deliberate ones)
 ## `~/stack.sh --list-all`
 
 ```sh
-nitesh@arch ~ $ cat SYSTEM_SPECS.md
+nitesh@mac ~ $ cat SYSTEM_SPECS.md
 ```
 
 | Module | Technologies |
@@ -61,7 +61,7 @@ nitesh@arch ~ $ cat SYSTEM_SPECS.md
 ## `~/processes.sh --status`
 
 ```
-nitesh@arch ~ $ ps aux | grep nitesh
+nitesh@mac ~ $ ps aux | grep nitesh
 
 PID   PROCESS                  STATUS      DETAILS
 ────────────────────────────────────────────────────────────────────
