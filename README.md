@@ -1,20 +1,114 @@
-<center>
-<h1 align="center">Nitesh Raya</h1>
-<h3 align="center">Full stack web developer</h3>
-<p align="center"> <a href="https://twitter.com/@nitesh_raya" target="_blank"><img src="https://img.shields.io/twitter/follow/nitesh_raya?logo=twitter&style=for-the-badge" alt="@nitesh_raya" /></a> </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@nitesh_raya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitesh_raya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitesh-raya-614055249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-raya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16811224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16811224" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nitesh_raya058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitesh_raya058" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </p>
+<!-- HEADER ASCII ART -->
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-mint&show_icons=true&locale=en&layout=compact" alt="nitesh-mint" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-mint&show_icons=true&locale=en" alt="nitesh-mint" /></p>
+```
+███╗   ██╗██╗████████╗███████╗███████╗██╗  ██╗    ██████╗  █████╗ ██╗   ██╗ █████╗
+████╗  ██║██║╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗
+██╔██╗ ██║██║   ██║   █████╗  ███████╗███████║    ██████╔╝███████║ ╚████╔╝ ███████║
+██║╚██╗██║██║   ██║   ██╔══╝  ╚════██║██╔══██║    ██╔══██╗██╔══██║  ╚██╔╝  ██╔══██║
+██║ ╚████║██║   ██║   ███████╗███████║██║  ██║    ██║  ██║██║  ██║   ██║   ██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
+
 </div>
-</center>
+
+<!-- TERMINAL WINDOW BADGE BAR -->
+<div align="center">
+
+![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=000000&labelColor=333333)
+![Shell](https://img.shields.io/badge/Shell-zsh-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=1a1a2e&labelColor=0f0f1a)
+![Editor](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=57A143&color=1a1a2e&labelColor=0f0f1a)
+![WPM](https://img.shields.io/badge/Speed-138_WPM-informational?style=flat-square&logo=keyboard&logoColor=white&color=1a1a2e&labelColor=0f0f1a)
+![Location](https://img.shields.io/badge/LOC-Kathmandu,_NP-informational?style=flat-square&logo=googlemaps&logoColor=white&color=1a1a2e&labelColor=0f0f1a)
+
+</div>
+
+---
+
+## `~/profile.conf`
+
+```ini
+[IDENTITY]
+name        = Nitesh Raya
+title       = Software Developer
+location    = Kathmandu, Nepal  🏔️
+status      = ONLINE
+uptime      = building things since day one
+
+[PERSONALITY]
+drives      = clean code, deep systems, visual craft
+philosophy  = "Ship it, learn from it, rebuild it better."
+weakness    = rabbit holes (deliberate ones)
+```
+
+---
+
+## `~/stack.sh --list-all`
+
+```sh
+nitesh@arch ~ $ cat SYSTEM_SPECS.md
+```
+
+| Module | Technologies |
+|:---|:---|
+| `[CORE_LANG]` | `C` &nbsp; `C#` &nbsp; `Python` &nbsp; `TypeScript` |
+| `[WEB_STACK]` | `.NET` &nbsp; `Django` &nbsp; `Astro` &nbsp; `Tailwind CSS` |
+| `[MOBILE]` | `Android` &nbsp; `Jetpack Compose` &nbsp; `Accessibility Services` |
+| `[DEV_ENV]` | `Neovim (Lua)` &nbsp; `tmux` &nbsp; `Ghostty` &nbsp; `Arch Linux` |
+
+---
+
+## `~/processes.sh --status`
+
+```
+nitesh@arch ~ $ ps aux | grep nitesh
+
+PID   PROCESS                  STATUS      DETAILS
+────────────────────────────────────────────────────────────────────
+001   WRITING C                RUNNING ▶   Learning c and understanding the language of computer
+002   MOBILE APP               ACTIVE  ▶   Write some mobile app in free time.
+```
+
+---
+
+## `~/skills.sh --benchmark`
+
+```
+nitesh@arch ~ $ ./skills --verbose
+
+Benchmarking skills... done.
+
+  Backend Development  [██████████████████░░]  90%
+  Systems Programming  [████████░░░░░░░░░░░░]  25%
+  Frontend / UI        [████████████████░░░░]  80%
+  Android Development  [███████████████░░░░░]  75%
+  DevTools / Config    [████████████████████]  100%  ← (neovim hours: ∞)
+```
+
+---
+
+## `~/connect.sh`
+
+```json
+{
+  "protocol"       : "HTTPS",
+  "linkedin"       : "[nitesh-raya](https://www.linkedin.com/in/nitesh-raya-614055249/)",
+}
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitesh--raya-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://linkedin.com/in/nitesh-raya-614055249)
+
+</div>
+
+
+```sh
+> "Any sufficiently advanced config file is indistinguishable from art."
+
+[session closed — uptime: too long]
+```
+
+<div align="center">
+<sub>crafted with <code>:wq</code> and questionable amounts of coffee &nbsp;|&nbsp; Kathmandu, NP</sub>
+</div>
