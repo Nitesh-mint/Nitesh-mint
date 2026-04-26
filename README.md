@@ -38,7 +38,7 @@ uptime      = building things since day one
 [PERSONALITY]
 drives      = clean code, deep systems, visual craft
 philosophy  = "Ship it, learn from it, rebuild it better."
-weakness    = rabbit holes (deliberate ones)
+weakness    = rabbit holes (deliberate ones) -> customization
 ```
 
 ---
